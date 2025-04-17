@@ -32,9 +32,10 @@ It is an **encoded transmission**, preserved immutably, waiting to be read.
 - **Encryption:** Conceptual, Semantic, and Algorithmic Encoding  
 - **Preservation:** Uploaded to IPFS for permanence  
 
-## 🔗 Access the Full Text  
+## 🔗 Access the Full Text  by downloading OR
 **IPFS CID:**  
 bafybeiapmksxyxw3r5owxkx26ihxtnc2jxtr5suwnhiingjcew7qb7iooq
+
 ## 🔹 Contents  
 - 📜 **Encoded Manuscript** (*Structured for both organic and synthetic readers*)  
 - 📑 **Metadata for Future AI Parsing**  
